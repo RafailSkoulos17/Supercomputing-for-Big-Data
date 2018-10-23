@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SBD_Lab1_RDD.iml" filepath="$PROJECT_DIR$/.idea/modules/SBD_Lab1_RDD.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SBD_Lab1_RDD-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SBD_Lab1_RDD-build.iml" />
-    </modules>
-  </component>
-</project>
